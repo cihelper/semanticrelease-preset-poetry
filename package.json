@@ -1,0 +1,39 @@
+{
+  "name": "@cihelper/preset-semanticrelease-poetry",
+  "version": "1.0.0",
+  "description": "Semantic Release configuration for Python projects using Poetry",
+  "main": "release.config.js",
+  "files": [
+    "release.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cihelper/preset-semanticrelease-poetry.git"
+  },
+  "keywords": [
+    "semantic-release-config",
+    "python",
+    "poetry",
+    "pypi",
+    "github"
+  ],
+  "author": "Mirko Lenz <mirko@mirkolenz.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cihelper/preset-semanticrelease-poetry/issues"
+  },
+  "homepage": "https://github.com/cihelper/preset-semanticrelease-poetry#README",
+  "dependencies": {
+    "@semantic-release/changelog": "^6.0.2",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^19.0.5",
+    "conventional-changelog-conventionalcommits": "^5.0.0"
+  },
+  "devDependencies": {
+    "@cihelper/preset-semanticrelease-npm": "^1.0.0"
+  },
+  "release": {
+    "extends": "@cihelper/preset-semanticrelease-npm"
+  }
+}
