@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/cihelper/preset-semanticrelease-poetry/compare/v1.1.0...v1.1.1) (2022-12-18)
+
+
+### Bug Fixes
+
+* run poetry build in prepare phase ([2b6c977](https://github.com/cihelper/preset-semanticrelease-poetry/commit/2b6c9778eea8f230ceb4d810256888a0b68a5a7f))
+
 ## [1.1.0](https://github.com/cihelper/preset-semanticrelease-poetry/compare/v1.0.1...v1.1.0) (2022-12-18)
 
 
