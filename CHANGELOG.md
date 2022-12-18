@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/cihelper/preset-semanticrelease-poetry/compare/v1.0.1...v1.1.0) (2022-12-18)
+
+
+### Features
+
+* skip build if no pypi token provided ([14550c1](https://github.com/cihelper/preset-semanticrelease-poetry/commit/14550c1e0d5c992ea5aabf7d6321b92d619068e7))
+
 ## [1.0.1](https://github.com/cihelper/preset-semanticrelease-poetry/compare/v1.0.0...v1.0.1) (2022-12-17)
 
 
