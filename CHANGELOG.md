@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.2](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.1.1...v1.1.2) (2022-12-18)
+
+
+### Bug Fixes
+
+* loosen version constraints ([3740f22](https://github.com/cihelper/semanticrelease-preset-poetry/commit/3740f2292ce4add0ab209126739ec8186ad51bf3))
+* rename packages ([e6ed585](https://github.com/cihelper/semanticrelease-preset-poetry/commit/e6ed585a58c4422697f7c3728f1fe54f25ab8839))
+* update lockfile ([2a91dd4](https://github.com/cihelper/semanticrelease-preset-poetry/commit/2a91dd47ef57e79a8aaa6b82bfe0bdc11121dac2))
+
 ## [1.1.1](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.1.0...v1.1.1) (2022-12-18)
 
 ### Bug Fixes
