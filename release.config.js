@@ -30,9 +30,10 @@ const config = {
     [
       "@semantic-release/exec",
       {
-        prepareCmd: "poetry version ${nextRelease.version}",
+        prepareCmd:
+          "poetry version ${nextRelease.version} && poetry build --no-interaction -vvv",
         publishCmd:
-          'if [ -n "$PYPI_TOKEN" ]; then poetry publish --build --username __token__ --password $PYPI_TOKEN --no-interaction -vvv; fi',
+          'if [ -n "$PYPI_TOKEN" ]; then poetry publish --username __token__ --password $PYPI_TOKEN --no-interaction -vvv; fi',
       },
     ],
     [
