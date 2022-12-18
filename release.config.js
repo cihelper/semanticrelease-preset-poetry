@@ -32,7 +32,7 @@ const config = {
       {
         prepareCmd: "poetry version ${nextRelease.version}",
         publishCmd:
-          "poetry publish --build --username __token__ --password $PYPI_TOKEN --no-interaction -vvv",
+          'if [ -n "$PYPI_TOKEN" ]; then poetry publish --build --username __token__ --password $PYPI_TOKEN --no-interaction -vvv; fi',
       },
     ],
     [
