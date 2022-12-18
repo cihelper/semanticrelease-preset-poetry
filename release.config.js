@@ -1,3 +1,6 @@
+const PUBLISH_POETRY =
+  process.env.PUBLISH_POETRY ?? process.env.PYPI_TOKEN !== undefined;
+
 const config = {
   // https://semantic-release.gitbook.io/semantic-release/usage/workflow-configuration
   branches: [
@@ -28,12 +31,9 @@ const config = {
       },
     ],
     [
-      "@semantic-release/exec",
+      "@cihelper/semanticrelease-plugin-poetry",
       {
-        prepareCmd:
-          "poetry version ${nextRelease.version} && poetry build --no-interaction -vvv",
-        publishCmd:
-          'if [ -n "$PYPI_TOKEN" ]; then poetry publish --username __token__ --password $PYPI_TOKEN --no-interaction -vvv; fi',
+        publishPoetry: PUBLISH_POETRY,
       },
     ],
     [
