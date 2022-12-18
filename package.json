@@ -31,7 +31,7 @@
     "conventional-changelog-conventionalcommits": "^5.0.0"
   },
   "devDependencies": {
-    "@cihelper/semanticrelease-preset-npm": "^1.0.0"
+    "@cihelper/semanticrelease-preset-npm": "^1"
   },
   "release": {
     "extends": "@cihelper/semanticrelease-preset-npm"
