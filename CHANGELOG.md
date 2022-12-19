@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.1](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.2.0...v1.2.1) (2022-12-19)
+
+
+### Bug Fixes
+
+* correctly set publishPoetry ([7881b07](https://github.com/cihelper/semanticrelease-preset-poetry/commit/7881b079b0ff0c98ea613585c6a39b3c5e3310b6))
+* hide fail comment on github ([875fb57](https://github.com/cihelper/semanticrelease-preset-poetry/commit/875fb57b2c8d8022179f33c72bedcb0be01239ee))
+* remove dev branch ([7dcec77](https://github.com/cihelper/semanticrelease-preset-poetry/commit/7dcec77b9787e88459f45c3610c7e4113d90e052))
+
 ## [1.2.0](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.1.2...v1.2.0) (2022-12-18)
 
 
