@@ -1,5 +1,8 @@
-const PUBLISH_POETRY =
-  process.env.PUBLISH_POETRY ?? process.env.PYPI_TOKEN !== undefined;
+// if POETRY_PUBLISH is not set, publish the package if a PYPI_TOKEN is provided
+const POETRY_PUBLISH =
+  (process.env.POETRY_PUBLISH !== undefined &&
+    process.env.POETRY_PUBLISH === "true") ||
+  process.env.PYPI_TOKEN !== undefined;
 
 const config = {
   // https://semantic-release.gitbook.io/semantic-release/usage/workflow-configuration
@@ -33,7 +36,7 @@ const config = {
     [
       "@cihelper/semanticrelease-plugin-poetry",
       {
-        publishPoetry: PUBLISH_POETRY,
+        publishPoetry: POETRY_PUBLISH,
       },
     ],
     [
