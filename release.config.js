@@ -46,7 +46,7 @@ const config = {
           { path: "dist/*.tar.gz", label: "sdist" },
           { path: "dist/*.whl", label: "wheel" },
         ],
-        // failComment: false,
+        failComment: false,
       },
     ],
     [
