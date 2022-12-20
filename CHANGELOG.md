@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.2.1...v1.3.0) (2022-12-20)
+
+
+### Features
+
+* add links to github releases ([9951b81](https://github.com/cihelper/semanticrelease-preset-poetry/commit/9951b81a13598b0ff3cd848783858d9452a85d3d))
+
 ## [1.2.1](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.2.0...v1.2.1) (2022-12-19)
 
 
