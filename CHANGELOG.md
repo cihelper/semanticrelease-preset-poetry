@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.3.1...v1.3.2) (2023-01-14)
+
+
+### Bug Fixes
+
+* add dev branch to config ([a73d9a3](https://github.com/cihelper/semanticrelease-preset-poetry/commit/a73d9a378015d719bf24d24c1adca59b8495743b))
+
 ## [1.3.1](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.3.0...v1.3.1) (2022-12-24)
 
 
