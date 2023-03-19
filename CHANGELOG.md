@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.3](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.3.2...v1.3.3) (2023-03-19)
+
+
+### Bug Fixes
+
+* remove success comment from github ([e46fdde](https://github.com/cihelper/semanticrelease-preset-poetry/commit/e46fdde29ffa4f7e37e02d5600116f897c46459d))
+
 ## [1.3.2](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.3.1...v1.3.2) (2023-01-14)
 
 
