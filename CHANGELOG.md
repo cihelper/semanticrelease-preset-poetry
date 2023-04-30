@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.3.3...v1.4.0) (2023-04-30)
+
+
+### Features
+
+* remove dedicated POETRY_PUBLISH env var ([dbc11a8](https://github.com/cihelper/semanticrelease-preset-poetry/commit/dbc11a82f67fea9336a6db6634c280069f3b7d6a))
+
 ## [1.3.3](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.3.2...v1.3.3) (2023-03-19)
 
 
