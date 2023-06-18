@@ -28,7 +28,8 @@
     "@semantic-release/git": "^10.0.1",
     "semantic-release": "^19.0.5",
     "conventional-changelog-conventionalcommits": "^6.0.0",
-    "@cihelper/semanticrelease-plugin-poetry": "^1.2.0"
+    "@cihelper/semanticrelease-plugin-poetry": "^1.2.0",
+    "semantic-release-major-tag": "^0.3.0"
   },
   "devDependencies": {
     "@cihelper/semanticrelease-preset-npm": "^1"

@@ -41,6 +41,12 @@ const config = {
       },
     ],
     [
+      "semantic-release-major-tag",
+      {
+        customTags: ["v${major}", "v${major}.${minor}"],
+      },
+    ],
+    [
       "@semantic-release/git",
       {
         message: "chore(release): ${nextRelease.version}",
