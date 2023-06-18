@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.4.0...v1.5.0) (2023-06-18)
+
+
+### Features
+
+* add plugin semantic-release-major-tag ([865539c](https://github.com/cihelper/semanticrelease-preset-poetry/commit/865539c23c3b41ed4ab4c2ea58b454a97aabdb94))
+
 ## [1.4.0](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.3.3...v1.4.0) (2023-04-30)
 
 
