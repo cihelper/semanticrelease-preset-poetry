@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.6.0](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.5.0...v1.6.0) (2023-09-18)
+
+
+### Features
+
+* switch to es module ([d74fd27](https://github.com/cihelper/semanticrelease-preset-poetry/commit/d74fd2748db88d643d9c555eefa9db3a55a79aa4))
+
+
+### Bug Fixes
+
+* bump deps ([6a99526](https://github.com/cihelper/semanticrelease-preset-poetry/commit/6a99526ea7c21cac7be2bfc8d41b0848a06260af))
+* switch to commonjs module again ([1802d38](https://github.com/cihelper/semanticrelease-preset-poetry/commit/1802d385ae1666b7529258e9eb4aad8d4792685f))
+* use commonjs release config ([cc932df](https://github.com/cihelper/semanticrelease-preset-poetry/commit/cc932dfa9d2fbfea04145ac7c7bc061eea916f81))
+
 ## [1.5.0](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.4.0...v1.5.0) (2023-06-18)
 
 
