@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.6.0...v1.6.1) (2023-09-22)
+
+
+### Bug Fixes
+
+* use semantic-release v21 ([0677c83](https://github.com/cihelper/semanticrelease-preset-poetry/commit/0677c83235508ffd2661fcc85cee90588cbc2f19))
+
 ## [1.6.0](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.5.0...v1.6.0) (2023-09-18)
 
 
