@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.4](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.6.3...v1.6.4) (2024-01-29)
+
+
+### Bug Fixes
+
+* correctly export new config location ([667dc0b](https://github.com/cihelper/semanticrelease-preset-poetry/commit/667dc0bd14f45dc37997bebc1d5607eff4832682))
+
 ## [1.6.3](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.6.2...v1.6.3) (2024-01-29)
 
 
