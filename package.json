@@ -3,9 +3,9 @@
   "version": "1.6.4",
   "description": "Semantic Release configuration for Python projects using Poetry",
   "type": "commonjs",
-  "main": ".config/release.config.js",
+  "main": ".releaserc.js",
   "files": [
-    ".config/release.config.js"
+    ".releaserc.js"
   ],
   "repository": {
     "type": "git",
