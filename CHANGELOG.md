@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.6.5](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.6.4...v1.6.5) (2024-01-29)
+
+
+### Bug Fixes
+
+* adjust module export for .releaserc.js ([46ef5ec](https://github.com/cihelper/semanticrelease-preset-poetry/commit/46ef5ec74b7993ebfd3597f62b639572a3d0a33c))
+* move release.config.js to .releaserc.js ([34bc97b](https://github.com/cihelper/semanticrelease-preset-poetry/commit/34bc97b21238bc466c6b7a9d939ed2ecda47d530))
+
 ## [1.6.4](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.6.3...v1.6.4) (2024-01-29)
 
 
