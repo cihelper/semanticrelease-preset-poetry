@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.3](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.6.2...v1.6.3) (2024-01-29)
+
+
+### Bug Fixes
+
+* **deps:** bump to semantic-release v23 and move config ([5e49f38](https://github.com/cihelper/semanticrelease-preset-poetry/commit/5e49f3878c40d16b1c672480866d67c15784deef))
+
 ## [1.6.2](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.6.1...v1.6.2) (2023-09-23)
 
 
