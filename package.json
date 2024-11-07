@@ -1,6 +1,6 @@
 {
   "name": "@cihelper/semanticrelease-preset-poetry",
-  "version": "1.6.5",
+  "version": "1.7.0",
   "description": "Semantic Release configuration for Python projects using Poetry",
   "type": "commonjs",
   "main": ".releaserc.js",

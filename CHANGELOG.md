@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.6.5...v1.7.0) (2024-11-07)
+
+
+### Features
+
+* **deps:** bump semantic-release to v24 ([faf2ce9](https://github.com/cihelper/semanticrelease-preset-poetry/commit/faf2ce9279b5d13f7af0a6e387fe66443c8b09fa))
+
 ## [1.6.5](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.6.4...v1.6.5) (2024-01-29)
 
 
