@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.1](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.8.0...v1.8.1) (2025-10-27)
+
+### Bug Fixes
+
+* trigger release ([1f50d13](https://github.com/cihelper/semanticrelease-preset-poetry/commit/1f50d13f9f6ae553e7b38cd41f0c399ca3b1f607))
+* update deps ([5d62015](https://github.com/cihelper/semanticrelease-preset-poetry/commit/5d6201522eb17f23a299065bcd019a4f50eb5f60))
+
 ## [1.8.0](https://github.com/cihelper/semanticrelease-preset-poetry/compare/v1.7.0...v1.8.0) (2025-02-02)
 
 
